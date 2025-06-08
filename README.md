@@ -28,7 +28,6 @@ Tweets were collected through the Twitter API, filtered for content mentioning "
 * Retrieves additional tweets from the same user for keyword extraction.
 
 ### TF Keyword Extraction
-Here’s the detailed version of those three sections:
 
 #### Filtering Stop Words
 
