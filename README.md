@@ -1,4 +1,3 @@
-Here's a polished README template for your GitHub project:
 # Twitter Keyword Extraction
 
 This project analyzes tweets in real-time, identifying keywords associated with "Democrat" or "Republican" to uncover patterns in political discourse. The program processes 1,000 tweets per minute, traversing through user-generated content to extract meaningful insights from related tweets.
